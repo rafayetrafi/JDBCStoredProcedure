@@ -10,12 +10,20 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		
-		///Boolean b=DBOperation.showAllCustomerName();
-		//System.out.println(b);
+		//Boolean b=DBOperation.showAllCustomerName();
 
 		//DBOperation.showAllBranchNameFromLoan();
 		//DBOperation.showBranchInformation();
 		//DBOperation.findAccountNumberAccordingToSalaryInput(700);
+		
+		//DBOperation.findAccountNumberAndBalance(100);
+		
+		//DBOperation.displayBranchNameAndAsset();
+		
+		//DBOperation.findAllBranchWithAsset(1000000,4000000);
+		//DBOperation.showNameAccountNumberAndBalanceOfAllCustomers();
+		
+		DBOperation.showNameAccountNumberAndBalanceOfAllCustomersWithBalanceOf(1000);
 		
 	}
 
